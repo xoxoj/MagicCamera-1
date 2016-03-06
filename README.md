@@ -1,5 +1,5 @@
 # MagicCamera
-![Alt text](sample.png)
+![Alt text](sample.png)  
 All automatic camera app that works with MysticSD.  
 It can also be used without MysticSD.
 
