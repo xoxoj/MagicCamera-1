@@ -1,5 +1,6 @@
 # MagicCamera
-All automatic camera app that works with MysticSD.
+![Alt text](sample.png)
+All automatic camera app that works with MysticSD.  
 It can also be used without MysticSD.
 
 ## Usage
@@ -16,6 +17,10 @@ Caution:You must launch the app.
 2. Save the contents of the MagicCamera folder.
 3. It introduces the library. (Using the CocoaPods.)
 
+## Development
+AkkeyLab  
+HP:akkeylab.com
+
 ## Licence
-MIT License
+MIT License  
 Please read the LICENSE file.
